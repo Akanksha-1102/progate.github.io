@@ -1,10 +1,10 @@
-.heading h1{
+ h1{
  color: #ff0000;
   font-size: 40px;
-  font family: fb"Times New Roman";
+  font family: "Times New Roman";
   background-color: #ffd800; 
 }
-.heading h2{
+ h2{
  color: #0000ff;
  font-size: 10px;
   background-color: #dddddd; 
